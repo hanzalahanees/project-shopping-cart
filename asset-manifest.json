@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/project-shopping-cart/static/css/main.743c9f16.css",
+    "main.js": "/project-shopping-cart/static/js/main.96f548ec.js",
+    "static/media/Eloquent-Js.jpg": "/project-shopping-cart/static/media/Eloquent-Js.ce27dc281e9e49c1c83f.jpg",
+    "static/media/Speaking-JavaScript.jpg": "/project-shopping-cart/static/media/Speaking-JavaScript.9c83a186c376deef8aa9.jpg",
+    "static/media/shoppingbag.svg": "/project-shopping-cart/static/media/shoppingbag.034ac6a84a517ef452dbcd1737d6f04e.svg",
+    "index.html": "/project-shopping-cart/index.html",
+    "static/media/trash.svg": "/project-shopping-cart/static/media/trash.50ddb433560e759939d0cafc12de40a7.svg",
+    "main.743c9f16.css.map": "/project-shopping-cart/static/css/main.743c9f16.css.map",
+    "main.96f548ec.js.map": "/project-shopping-cart/static/js/main.96f548ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743c9f16.css",
+    "static/js/main.96f548ec.js"
+  ]
+}
